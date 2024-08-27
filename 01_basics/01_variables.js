@@ -14,4 +14,4 @@ console.log(accountId);
 prefer not to use var because of isssue of block and scope
 
 */
-console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
+console.table([accountId,accountEmail,accountPassword,accountCity,accountState])  
